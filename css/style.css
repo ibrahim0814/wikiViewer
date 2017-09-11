@@ -1,0 +1,46 @@
+.headerStyle{
+
+  font-family: 'Maitree', serif;
+}
+
+body{
+
+  margin-top: 10px;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-image: url(https://res.cloudinary.com/ibrahimali/image/upload/v1505104057/background_lmngpe.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+
+
+
+}
+
+.spacing{
+
+  padding-top: 5%;
+}
+
+.backgroundImg{
+
+
+
+
+}
+
+.resultList{
+
+  text-align: left;
+  margin-left: 3px;
+}
+
+
+
+.resultTitle{
+
+  color: #585858;
+  margin-bottom: -14px;
+  font-size: 18px;
+}
