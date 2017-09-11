@@ -4,6 +4,6 @@ A viewer for Wikipedia searches. Queries search parameters by using the Wikipedi
 
 Built with JavaScript, jQuery, HTML/CSS and Bootstrap alongside Ajax for HTTP requests.
 
-####Check out the demo [here]!
+#### Check out the demo [here]!
 
 [here]:  https://codepen.io/ibrahim0814/full/zdgbmo/
