@@ -1,8 +1,8 @@
 # Wiki Viewer
 
-A viewer for Wikipedia searches. Queries search parameters with the Wikipedia RESTful API and pulls relevant links and information.
+A viewer for Wikipedia searches. Queries search parameters by using the Wikipedia RESTful API and pulls relevant links and information for the 10 most relevant results.
 
-Built with JavaScript, jQuery, HTML/CSS and Bootstrap alongside Ajax for HTTP requests. 
+Built with JavaScript, jQuery, HTML/CSS and Bootstrap alongside Ajax for HTTP requests.
 
 Check out the demo [here]!
 
